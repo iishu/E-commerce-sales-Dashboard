@@ -10,8 +10,8 @@ This repository contains a Power BI dashboard that tracks and analyzes online sa
 - Drill-down functionality for detailed insights.
 
 ## Files
-- **SalesDashboard.pbix**: The main Power BI file containing the dashboard.
+- **E-commerce sales.pbix**: The main Power BI file containing the dashboard.
 
 ## Instructions
-1. Download the `SalesDashboard.pbix` file.
+1. Download the `E-commerce sales.pbix` file.
 2. Open it in Power BI Desktop to explore the dashboard.
